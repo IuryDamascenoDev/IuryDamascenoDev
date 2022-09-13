@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **iury.damasceno.mota@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/iurydamascenodev/</h3>
 <p align="left">
 </p>
 
