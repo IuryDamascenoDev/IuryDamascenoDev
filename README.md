@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flask**, **GCP**, **Airflow**, streaming and batch load data tools **Kafka** and **PubSub** as well as others from **Google Cloud Platform**
 
-- 👨‍💻 All of my projects are available at [https://github.com/iurydamascenodev](https://github.com/iurydamascenodev)
+- 👨‍💻 All of my projects are available here at [https://github.com/iurydamascenodev](https://github.com/iurydamascenodev)
 
 - 💬 Ask me about **Python, PySpark, Hadoop, ETL** and **ELT, MySQL, SQL, MongoDB**
 
