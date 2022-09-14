@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iurydamascenodev](https://github.com/iurydamascenodev)
 
-- 💬 Ask me about **Python, PySpark, Hadoop, ETL and ELT, MySQL, SQL, MongoDB**
+- 💬 Ask me about **Python, PySpark, Hadoop, ETL** and **ELT, MySQL, SQL, MongoDB**
 
 - 📫 How to reach me **iury.damasceno.mota@gmail.com**
 
