@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Python Full Stack ecommerce system.**
 
-- 🌱 I’m currently learning **Flask**, **GCP**, **Airflow**, streaming and batch load data tools **Kafka** and **PubSub** as well as other **tools from Google Cloud Platform**
+- 🌱 I’m currently learning **Flask**, **GCP**, **Airflow**, streaming and batch load data tools **Kafka** and **PubSub** as well as others from **Google Cloud Platform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iurydamascenodev](https://github.com/iurydamascenodev)
 
