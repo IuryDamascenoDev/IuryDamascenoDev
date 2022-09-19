@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, welcome to my GitHub! My name is Iury Damasceno.</h1>
-<h3 align="center">I'm a inquisitive software engineer aspirant, who loves to learn about data and backend. Currently looking forward to become a Data Software Engineer.</h3>
+<h3 align="center">I'm a inquisitive Software Engineer aspirant, who loves to learn about data and backend. Currently looking forward to become a Data Software Engineer.</h3>
 
 - 🔭 I’m currently working on **a Python Full Stack ecommerce system.**
 
