@@ -1,15 +1,15 @@
-<h1 align="center">Hi there, welcome to my GitHub! My name is Iury Damasceno.</h1>
-<h3 align="center">I'm a inquisitive Data Software Engineer aspirant, who loves to learn about data and backend. Always looking to expand my knowledge.</h3>
+<h1 align="center">Olá! Seja bem-vindo(a) ao meu GitHub! Meu nome é Iury Damasceno.</h1>
+<h3 align="center">Sou um aspirante a Engenheiro de Software de Dados e adoro aprender sobre dados e backend. Estou sempre à procura de expandir meus conhecimentos.</h3>
 
-- 🌱 I’m currently learning **Django**, **GCP**, **Airflow**, streaming and batch load data tools **Kafka** and **PubSub** as well as others from **Google Cloud Platform**
+- 🌱 Atualmente estou aprendendo sobre **Django**, **GCP**, **Airflow**, ferramentas de batch e streaming **Kafka** e **PubSub** assim como outras ferramentas da **Google Cloud Platform** como **BigQuery**, **Composer** e **Dataflow**.
 
-- 👨‍💻 All of my projects are available here at [https://github.com/iurydamascenodev](https://github.com/iurydamascenodev)
+- 👨‍💻 Todos os meus projetos estão disponíveis aqui em [https://github.com/iurydamascenodev](https://github.com/iurydamascenodev)
 
-- 💬 Ask me about **Python, PySpark, Hadoop, ETL** and **ELT, MySQL, SQL, MongoDB**
+- 💬 Pergunte-me sobre **Python**, **PySpark**, **Hadoop**, **ETL** e **ELT**, **MySQL**, **SQL**, **MongoDB**
 
-- 📫 How to reach me **iury.damasceno.mota@gmail.com**
+- 📫 Me contate via email: **iury.damasceno.mota@gmail.com**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/iurydamascenodev/</h3>
+<h3 align="left">Conecte-se comigo: https://www.linkedin.com/in/iurydamascenodev/</h3>
 <p align="left">
 </p>
 
