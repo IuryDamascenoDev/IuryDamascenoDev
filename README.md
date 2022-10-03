@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, welcome to my GitHub! My name is Iury Damasceno.</h1>
 <h3 align="center">I'm a inquisitive Data Software Engineer aspirant, who loves to learn about data and backend. Always looking to expand my knowledge.</h3>
 
-- 🔭 I’m currently working on **a Python Full Stack ecommerce system.**
-
-- 🌱 I’m currently learning **Flask**, **GCP**, **Airflow**, streaming and batch load data tools **Kafka** and **PubSub** as well as others from **Google Cloud Platform**
+- 🌱 I’m currently learning **Django**, **GCP**, **Airflow**, streaming and batch load data tools **Kafka** and **PubSub** as well as others from **Google Cloud Platform**
 
 - 👨‍💻 All of my projects are available here at [https://github.com/iurydamascenodev](https://github.com/iurydamascenodev)
 
