@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Seja bem-vindo(a) ao meu GitHub! Meu nome é Iury Damasceno.</h1>
 <h3 align="center">Sou um aspirante a Engenheiro de Software de Dados e adoro aprender sobre dados e backend. Estou sempre à procura de expandir meus conhecimentos.</h3>
 
-- 🌱 Atualmente estou aprendendo sobre **Django**, **GCP**, **Airflow**, ferramentas de batch e streaming **Kafka** e **PubSub** assim como outras ferramentas da **Google Cloud Platform** como **BigQuery**, **Composer** e **Dataflow**.
+- 🌱 Atualmente estou aprendendo sobre **GCP**, **Airflow**, ferramentas de batch e streaming **Kafka** e **PubSub** assim como outras ferramentas da **Google Cloud Platform** como **BigQuery**, **Composer** e **Dataflow**.
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui em [https://github.com/iurydamascenodev](https://github.com/iurydamascenodev)
 
