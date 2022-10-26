@@ -5,7 +5,7 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis aqui em [https://github.com/iurydamascenodev](https://github.com/iurydamascenodev)
 
-- 💬 Pergunte-me sobre **Python**, **PySpark**, **Hadoop**, **ETL** e **ELT**, **MySQL**, **SQL**, **MongoDB**
+- 💬 Pergunte-me sobre **Python**, **PySpark**, **Hadoop**, **ETL** e **ELT**, **SQL**
 
 - 📫 Me contate via email: **iury.damasceno.mota@gmail.com**
 
