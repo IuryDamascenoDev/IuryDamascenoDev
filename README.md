@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Seja bem-vindo(a) ao meu GitHub! Meu nome é Iury Damasceno.</h1>
-<h3 align="center">Sou um aspirante a Engenheiro de Software de Dados e adoro aprender sobre dados e backend. Estou sempre à procura de expandir meus conhecimentos.</h3>
+<h3 align="center">Sou um Desenvolvedor de Software e adoro aprender sobre Dados e Back End. Estou sempre à procura de expandir meus conhecimentos, atualmente venho me interessando também por DevOps principalmente pela sua importância no processo de desenvolvimento.</h3>
 
 - 🌱 Estou estudando mais intensivamente **GCP** para desenvolvimento de aplicações, **Java Spring Boot**, Administração de Bancos de Dados e DevOps a fim de melhorar o ciclo de desenvolvimento.
 
