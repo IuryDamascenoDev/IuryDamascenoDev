@@ -1,13 +1,11 @@
 <h1 align="center">Olá! Seja bem-vindo(a) ao meu GitHub! Meu nome é Iury Damasceno.</h1>
 <h3 align="center">Sou um aspirante a Engenheiro de Software de Dados e adoro aprender sobre dados e backend. Estou sempre à procura de expandir meus conhecimentos.</h3>
 
-- 🌱 Estou estudando mais intensivamente **GCP**, **Airflow**, ferramentas de streaming **Kafka** e **PubSub** assim como outras ferramentas da **Google Cloud Platform** como **Dataproc**, **BigQuery**, **Composer** e **Dataflow**.
+- 🌱 Estou estudando mais intensivamente **GCP** para desenvolvimento de aplicações, **Java Spring Boot**, Administração de Bancos de Dados e DevOps a fim de melhorar o ciclo de desenvolvimento.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis aqui em [https://github.com/iurydamascenodev](https://github.com/iurydamascenodev)
+- 💬 Já possuos conhecimentos mais sólidos em **Python**, **PySpark**, **SQL**, **Java** e **Spring Boot**.
 
-- 💬 Já possuos conhecimentos mais sólidos em **Python**, **PySpark**, **ETL**/**ELT** e **SQL**
-
-- 📫 Email parar contato: **iury.damasceno.mota@gmail.com**
+- 📫 Email para contato: **iury.damasceno.mota@gmail.com**
 
 <h3 align="left">Conecte-se comigo: https://www.linkedin.com/in/iurydamascenodev/</h3>
 <p align="left">
